@@ -1,0 +1,11 @@
+C:\Visual Studio Projects\Study Timer\Study Timer\bin\Debug\Study Timer.exe.config
+C:\Visual Studio Projects\Study Timer\Study Timer\bin\Debug\Study Timer.exe
+C:\Visual Studio Projects\Study Timer\Study Timer\bin\Debug\Study Timer.pdb
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study_Timer.Form1.resources
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study_Timer.Properties.Resources.resources
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.csproj.GenerateResource.cache
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.exe
+C:\Visual Studio Projects\Study Timer\Study Timer\obj\Debug\Study Timer.pdb
